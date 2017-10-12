@@ -1,2 +1,2 @@
 # Mobile-Page-Template
-移动端页面模版（自适应）
+移动端页面（自适应）
